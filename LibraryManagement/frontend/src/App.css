@@ -1,0 +1,43 @@
+.header {
+  background-color: #282c34;
+  min-height: 13vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.btn-primary{
+  background-color: #282c34 !important;
+}
+
+.btn-primary:hover{
+  background-color: aliceblue !important;
+  color:#282c34 !important;
+}
+
+.btn-outline-primary{
+    border-color: blue !important;
+    color:#282c34 !important;
+
+}
+
+.btn-outline-primary:hover{
+
+  background-color: #282c34 !important;
+  color: aliceblue !important;
+
+}
+
+.btn-danger:hover{
+  color: red !important;
+  background-color: white !important;
+}
+
+.container{
+  margin-top: 20px;
+}
+
